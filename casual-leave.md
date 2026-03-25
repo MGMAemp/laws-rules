@@ -1,9 +1,3 @@
----
-title: "Causal Leave"
-description: "Casual leave."
-pubDate: 2025-10-25
----
-
 <h2>ရှောင်တခင်ခွင့်</h2>
 
 <h3 id="definition">အဓိပ္ပါယ်ဖွင့်ဆိုချက်<i class="fa-solid fa-link"></i></h3>
