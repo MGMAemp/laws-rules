@@ -12,10 +12,10 @@
     "date": "2026-03-31"
   },
   {
-    "filename": "paymentlaw",
-    "title": "အခကြေးငွေပေးချေရေး ဥပဒေ",
-    "description": "The Factory Act 1951 is important in Myanmar Labour Laws.",
-    "date": "2026-03-31"
+    "filenmae": "leavesholidaysrules",
+    "title": "ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက်နည်းဥပဒေများ",
+    "description":"Leaves & Holidays Rules 2018",
+    "date": "2026-5-5"
   },
   {
     "filename": "OSH",
@@ -24,9 +24,9 @@
     "date": "2026-04-03"
   },
   {
-    "filenmae": "leaves&Holidays Rules",
-    "title": "ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက်နည်းဥပဒေများ",
-    "description":"Leaves & Holidays Rules",
-    "date": "2026-5-5"
+    "filename": "paymentlaw",
+    "title": "အခကြေးငွေပေးချေရေး ဥပဒေ",
+    "description": "The Factory Act 1951 is important in Myanmar Labour Laws.",
+    "date": "2026-03-31"
   }
 ]
